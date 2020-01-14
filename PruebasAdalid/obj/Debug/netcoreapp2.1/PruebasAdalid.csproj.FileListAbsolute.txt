@@ -1,0 +1,14 @@
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\PruebasAdalid.deps.json
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\PruebasAdalid.runtimeconfig.json
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\PruebasAdalid.runtimeconfig.dev.json
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\PruebasAdalid.dll
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.csprojAssemblyReference.cache
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.csproj.CoreCompileInputs.cache
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.AssemblyInfoInputs.cache
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.AssemblyInfo.cs
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\bin\Debug\netcoreapp2.1\PruebasAdalid.pdb
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.dll
+C:\Users\pquispe\source\repos\PruebasAdalid\PruebasAdalid\obj\Debug\netcoreapp2.1\PruebasAdalid.pdb
